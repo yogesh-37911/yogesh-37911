@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Yogesh
 
-<!--
-**yogesh-37911/yogesh-37911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate
 
-Here are some ideas to get you started:
+🔐 Aspiring Cybersecurity Professional
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Skills:
+- Python
+- Flask
+- HTML/CSS
+- WordPress
+
+🌱 Currently Learning:
+- Kali Linux
+- Ethical Hacking
+- Network Security
+
+🚀 Projects:
+- Adaptive WAF
+- API Security Framework
+- Container Security Scanner
+- Gym Management System
+
+📫 Connect with me:
+- GitHub: https://github.com/yogesh-37911
